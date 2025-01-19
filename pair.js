@@ -58,16 +58,16 @@ router.get('/', async (req, res) => {
 
                let FREDI_TECH_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃CRONAZ-XD 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝙎 
+┃PASIYA-MD 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝙎 
 ┃𝙎𝙐𝘾𝘾𝙀𝙎𝙎𝙁𝙐𝙇𝙇𝙔
 ┃𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙀𝘿 ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = ✰ ᴄʀᴏɴᴀᴢ xᴅ ✰
+❶ || Creator = ✰ PASIYA ✰
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Chat me 👉 https://wa.me/𝟿𝟷𝟾𝟷𝟹𝟾𝟾𝟿𝟾𝟶𝟻𝟿
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*𝐂𝐑𝐎𝐍𝐀𝐙 𝐗𝐃*
+©*PASIYA MD V1*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Cronaz_Xd.sendMessage(Pair_Code_By_Fredie_Tech.user.id,{text:FREDI_TECH_TEXT},{quoted:session})
