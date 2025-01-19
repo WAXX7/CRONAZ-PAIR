@@ -60,19 +60,16 @@ router.get('/', async (req, res) => {
 	
 				   let FREDI_TECH_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃𝙃𝘼𝙉𝙎-𝙈𝘿 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝙎 
+┃PASIYA-MD 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝙎 
 ┃𝙎𝙐𝘾𝘾𝙀𝙎𝙎𝙁𝙐𝙇𝙇𝙔
 ┃𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙀𝘿 ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = ✰ HANSTZ TECH ✰
+❶ || Creator = ✰ PASIYA✰
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
+Chat me 👉 https://wa.me/918138898059
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Chat me 👉 https://wa.me/255760774888
-𝕋ℍ𝕀𝕊 𝕀𝕊 ℍ𝔸ℕ𝕊-𝕄𝔻-ℕ𝔼𝕎-𝕌ℙ𝔻𝔸𝕋𝔼 2025
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 𝐇𝐀𝐍𝐒-𝐅𝐑𝐎𝐌-𝐓𝐀𝐍𝐙𝐀𝐍𝐈𝐀🇹🇿✌️*
+©*PASIYA MD V1*
 
 _Don't Forget To Give Star To My Repo_`
 	 await Qr_Code_By_Fredie_Tech.sendMessage(Qr_Code_By_Fredie_Tech.user.id,{text:FREDI_TECH_TEXT},{quoted:session})
